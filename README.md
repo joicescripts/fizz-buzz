@@ -7,6 +7,10 @@
 
 - Os jogadores se revezam para contar de forma incremental, substituindo qualquer número divisível por três pela palavra Fizz, e qualquer número divisível por cinco pela palavra Buzz, e qualquer número divisível por 3 e 5 pela palavra FizzBuzz.
 
+## Link do jogo:
+[Fizz Buzz versão 1.0](https://fizz-buzz-seven.vercel.app)
+
+
 ### Tela do jogo
 ![tela do jogo](doc/tela-jogo.png)
 
