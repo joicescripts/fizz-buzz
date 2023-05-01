@@ -1,6 +1,6 @@
 # Projeto Fizz-Buzz
 
-> Projeto sugerido por um dos mentores do projeto Desenvolve 2023 promovido pelo Grupo Boticário, junto a plataforma de ensino Alura, para ajudar no aprendizado e fixação da matéria durante os cursos de HTML, CSS e JavaScript.
+> Projeto sugerido pela mentora @BiancaPereira do projeto Desenvolve 2023 promovido pelo Grupo Boticário, junto a plataforma de ensino Alura, para ajudar no aprendizado e fixação da matéria durante os cursos de HTML, CSS e JavaScript.
 
 ## Resumo do jogo:
 - Fizz buzz é um jogo de palavras em grupo para as crianças ensinarem sobre divisão. 
